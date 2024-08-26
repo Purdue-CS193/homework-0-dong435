@@ -1,3 +1,10 @@
+# Ricky's First CS193 Homework
+
+- I like how the class is run by students, so they can be more understanding of each other
+- I like how we are learning different tools which some I have never used before
+- I have a lot of friends in this class
+
+  
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -10,12 +17,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Ricky's First CS193 Homework
-
-- I like how the class is run by students, so they can be more understanding of each other
-- I like how we are learning different tools which some I have never used before
-- I have a lot of friends in this class
 
 **Bold** and _Italic_ and `Code` text
 
