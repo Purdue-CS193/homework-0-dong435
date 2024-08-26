@@ -14,10 +14,8 @@ Syntax highlighted code block
 # Ricky's First CS193 Homework
 
 - I like how the class is run by students, so they can be more understanding of each other
-- I also like how we are learning different tools which some I have never used before
-
-1. Numbered
-2. List
+- I like how we are learning different tools which some I have never used before
+- I have a lot of friends in this class
 
 **Bold** and _Italic_ and `Code` text
 
